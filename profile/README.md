@@ -2,7 +2,7 @@
 
 # PRATHER BYTECRAFT
 
-**Hand-built software, crafted one byte at a time.**
+**Crafting one byte at a time.**
 
 </div>
 
