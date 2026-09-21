@@ -32,7 +32,7 @@ Those two store pages are the only official listings. Anything else claiming to 
     <td valign="top">
       <b>Retrostat</b> · Statistics for any date range of a server's history<br>
       Who posted the most, who got mentioned, which channels were busiest. Ranked lists with a chart and a CSV.<br>
-      <a href="https://discord.com/oauth2/authorize?client_id=1541785946343612448&integration_type=0">Add to server</a> ·
+      <a href="https://discord.com/oauth2/authorize?client_id=1541785946343612448&scope=bot+applications.commands&permissions=117760&integration_type=0">Add to server</a> ·
       <a href="https://pratherbytecraft.com/retrostat">Guide</a>
     </td>
   </tr>
@@ -41,7 +41,7 @@ Those two store pages are the only official listings. Anything else claiming to 
     <td valign="top">
       <b>Scour</b> · Deletes messages by rule, at any age, with a receipt<br>
       Counts first and deletes after you confirm. Nightly retention works past the 14 day limit other bots stop at.<br>
-      <a href="https://discord.com/oauth2/authorize?client_id=1542622833388032050&integration_type=0">Add to server</a> ·
+      <a href="https://discord.com/oauth2/authorize?client_id=1542622833388032050&scope=applications.commands&permissions=0&integration_type=0">Add to server</a> ·
       <a href="https://pratherbytecraft.com/scour">Guide</a>
     </td>
   </tr>
@@ -50,7 +50,7 @@ Those two store pages are the only official listings. Anything else claiming to 
     <td valign="top">
       <b>Vested</b> · Roles with an expiry date<br>
       Grant a role for a week, a month, or until a date. Vested removes it when the time is up.<br>
-      <a href="https://discord.com/oauth2/authorize?client_id=1543813583459323967&integration_type=0">Add to server</a> ·
+      <a href="https://discord.com/oauth2/authorize?client_id=1543813583459323967&scope=bot+applications.commands&permissions=268435456&integration_type=0">Add to server</a> ·
       <a href="https://pratherbytecraft.com/vested">Guide</a>
     </td>
   </tr>
